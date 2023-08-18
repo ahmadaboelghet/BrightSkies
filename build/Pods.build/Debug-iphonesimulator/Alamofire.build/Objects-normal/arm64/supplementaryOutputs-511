@@ -1,0 +1,25 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/HTTPMethod.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/MultipartUpload.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartUpload.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartUpload.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartUpload.o"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/MultipartFormData.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.o"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/NetworkReachabilityManager.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/Notifications.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.o"

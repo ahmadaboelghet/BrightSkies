@@ -1,0 +1,45 @@
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Wallet/CardModel.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/CardModel.o"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/CardModel.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/CardModel.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/CardModel.dia"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Reviews/ReviewsModel.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReviewsModel.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReviewsModel.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReviewsModel.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReviewsModel.dia"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Home/ApplyPromoCode.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ApplyPromoCode.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ApplyPromoCode.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ApplyPromoCode.o"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ApplyPromoCode.swiftdeps"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Setting/HealthConditions/AddHealthConditionsModel.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/AddHealthConditionsModel.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/AddHealthConditionsModel.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/AddHealthConditionsModel.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/AddHealthConditionsModel.o"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/News/NewsModel.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/NewsModel.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/NewsModel.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/NewsModel.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/NewsModel.o"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Trip Details/PropertiesAndPaymentModel.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/PropertiesAndPaymentModel.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/PropertiesAndPaymentModel.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/PropertiesAndPaymentModel.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/PropertiesAndPaymentModel.swiftdeps"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Chat/StoreChatModel.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/StoreChatModel.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/StoreChatModel.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/StoreChatModel.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/StoreChatModel.o"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Setting/DefaultTripModel.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/DefaultTripModel.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/DefaultTripModel.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/DefaultTripModel.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/DefaultTripModel.o"
+"/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Home/ReverseModel.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReverseModel.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReverseModel.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReverseModel.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/BrightSkies.build/Debug-iphonesimulator/BrightSkies.build/Objects-normal/arm64/ReverseModel.dia"

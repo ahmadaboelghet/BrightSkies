@@ -1,0 +1,25 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/Combine.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.o"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/EventMonitor.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/HTTPHeaders.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.o"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.d"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/Concurrency.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.dia"

@@ -1,0 +1,20 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/Validation.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.o"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/URLEncodedFormEncoder.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.dia"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.o"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.swiftdeps"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Alamofire/Source/URLRequest+Alamofire.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftdeps"

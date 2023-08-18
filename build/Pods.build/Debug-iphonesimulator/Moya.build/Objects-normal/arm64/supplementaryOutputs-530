@@ -1,0 +1,15 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/Plugin.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Plugin.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Plugin.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Plugin.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Plugin.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/RequestTypeWrapper.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/RequestTypeWrapper.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/RequestTypeWrapper.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/RequestTypeWrapper.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/RequestTypeWrapper.d"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/Plugins/NetworkLoggerPlugin.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkLoggerPlugin.dia"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkLoggerPlugin.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkLoggerPlugin.o"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkLoggerPlugin.swiftdeps"

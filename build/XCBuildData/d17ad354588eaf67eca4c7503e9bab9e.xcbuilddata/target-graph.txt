@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Alamofire in Pods, no dependencies
+SwiftyJSON in Pods, no dependencies
+Pods-BrightSkies in Pods, depends on:
+Alamofire in Pods (explicit)
+SwiftyJSON in Pods (explicit)
+BrightSkies in BrightSkies, depends on:
+Pods-BrightSkies in Pods (implicit dependency via file 'Pods_BrightSkies.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+SwiftyJSON in Pods (implicit dependency via options '-framework SwiftyJSON' in build setting 'OTHER_LDFLAGS')

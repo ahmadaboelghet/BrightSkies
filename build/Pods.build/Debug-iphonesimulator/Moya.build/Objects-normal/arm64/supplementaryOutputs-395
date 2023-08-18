@@ -1,0 +1,15 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/Response.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Response.swiftdeps"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Response.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Response.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Response.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/TargetType.swift":
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/TargetType.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/TargetType.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/TargetType.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/TargetType.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/Task.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Task.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Task.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Task.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/Task.d"

@@ -1,0 +1,15 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/MultiTarget.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.dia"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/Plugins/NetworkActivityPlugin.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.dia"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.d"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/MultipartFormData.swift":
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.o"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.dia"

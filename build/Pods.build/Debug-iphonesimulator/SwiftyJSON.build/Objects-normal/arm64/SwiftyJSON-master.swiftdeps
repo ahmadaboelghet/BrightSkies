@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "e1007c185bc510b3ab194f050e95c52e17a3b0b67264173561fc476e37e6e214"
+build_start_time: [1692394135, 710496000]
+build_end_time: [1692394136, 917115000]
+inputs:
+  "/Users/aboelghet/Desktop/BrightSkies/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1691956499, 136048353]

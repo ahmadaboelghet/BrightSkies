@@ -1,0 +1,15 @@
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/MultipartFormData.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.o"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.dia"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultipartFormData.d"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/MultiTarget.swift":
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.dia"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.o"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.d"
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/MultiTarget.swiftdeps"
+"/Users/aboelghet/Desktop/BrightSkies/Pods/Moya/Sources/Moya/Plugins/NetworkActivityPlugin.swift":
+  swift-dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.swiftdeps"
+  diagnostics: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.dia"
+  dependencies: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.d"
+  object: "/Users/aboelghet/Desktop/BrightSkies/build/Pods.build/Debug-iphonesimulator/Moya.build/Objects-normal/arm64/NetworkActivityPlugin.o"

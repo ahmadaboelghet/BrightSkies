@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9689b734bae6dd12c2711dac4e1c86a429a6a4ca11e75bf81c5de7dd69bd0a77"
+build_start_time: [1692395009, 928193000]
+build_end_time: [1692395010, 374635000]
+inputs:
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/AppDelgate/AppDelegate.swift": [1691949517, 394143556]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/AppDelgate/SceneDelegate.swift": [1691949517, 397225434]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Controllers/Home/HomeViewController.swift": [1692394181, 602784697]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Controllers/Login/LoginViewController.swift": [1692394180, 844544301]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Helper/Extension/AlertsManger.swift": [1691955965, 773016604]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/APIs.swift": [1692286557, 292892928]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Models/Home/GeneralRespone.swift": [1692394894, 538113946]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/NetworkRequest.swift": [1692286557, 293292507]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/Reachability.swift": [1692286557, 293537130]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/Network/WebServices.swift": [1692286557, 293656920]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/ViewsModel/HomeViewModel/HomeViewModel.swift": [1692395009, 590690508]
+  "/Users/aboelghet/Desktop/BrightSkies/BrightSkies/ViewsModel/LoginViewModel/LoginViewModel.swift": [1692395009, 574508204]
